@@ -6,3 +6,4 @@
 - 3-paths: Counts non-empty directory entries in PATH.
 - 4-global_variables: Lists all environment variables using printenv.
 - 5-local_variables: Lists shell variables, environment variables, and functions using set.
+- 6-create_local_variable: Creates the local variable BEST with the value School.
