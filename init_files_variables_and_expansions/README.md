@@ -7,3 +7,4 @@
 - 4-global_variables: Lists all environment variables using printenv.
 - 5-local_variables: Lists shell variables, environment variables, and functions using set.
 - 6-create_local_variable: Creates the local variable BEST with the value School.
+- 7-create_global_variable: Exports the environment variable BEST with the value School.
