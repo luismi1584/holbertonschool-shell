@@ -5,3 +5,4 @@
 - 2-path: Adds /action to the end of the PATH environment variable.
 - 3-paths: Counts non-empty directory entries in PATH.
 - 4-global_variables: Lists all environment variables using printenv.
+- 5-local_variables: Lists shell variables, environment variables, and functions using set.
