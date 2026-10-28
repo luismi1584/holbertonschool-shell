@@ -3,5 +3,5 @@
 - 0-alias: Creates an alias named ls with the value rm -f *.
 - 1-hello_you: Prints "hello" followed by the current Linux username.
 - 2-path: Adds /action to the end of the PATH environment variable.
-- 3-paths: Counts the colon-separated entries in PATH, including empty entries.
+- 3-paths: Counts non-empty directory entries in PATH.
 - 4-global_variables: Lists all environment variables using printenv.
