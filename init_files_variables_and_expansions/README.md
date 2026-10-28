@@ -9,3 +9,4 @@
 - 6-create_local_variable: Creates the local variable BEST with the value School.
 - 7-create_global_variable: Exports the environment variable BEST with the value School.
 - 8-true_knowledge: Prints the sum of 128 and the TRUEKNOWLEDGE environment variable.
+- 9-divide_and_rule: Prints the result of POWER divided by DIVIDE.
